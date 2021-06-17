@@ -6,7 +6,7 @@
 
 `cucumber`
 
-Para modificar a saida do report paradão de json para html basta executar com a tag desejada exemplo:
+Para modificar a saida do report padrão de json para html basta executar com a tag desejada exemplo:
 
 `cucumber -p html` relatório padrão do cucumber
 `cucumber -p json` relatório com a gem report builder
